@@ -1,0 +1,11 @@
+C:\Users\HajdiDj\source\repos\ProjekatDesignPatterns\obj\Debug\netcoreapp2.0\ProjekatDesignPatterns.csproj.CoreCompileInputs.cache
+C:\Users\HajdiDj\source\repos\ProjekatDesignPatterns\obj\Debug\netcoreapp2.0\ProjekatDesignPatterns.AssemblyInfoInputs.cache
+C:\Users\HajdiDj\source\repos\ProjekatDesignPatterns\obj\Debug\netcoreapp2.0\ProjekatDesignPatterns.AssemblyInfo.cs
+C:\Users\HajdiDj\source\repos\ProjekatDesignPatterns\bin\Debug\netcoreapp2.0\ProjekatDesignPatterns.deps.json
+C:\Users\HajdiDj\source\repos\ProjekatDesignPatterns\bin\Debug\netcoreapp2.0\ProjekatDesignPatterns.runtimeconfig.json
+C:\Users\HajdiDj\source\repos\ProjekatDesignPatterns\bin\Debug\netcoreapp2.0\ProjekatDesignPatterns.runtimeconfig.dev.json
+C:\Users\HajdiDj\source\repos\ProjekatDesignPatterns\bin\Debug\netcoreapp2.0\ProjekatDesignPatterns.dll
+C:\Users\HajdiDj\source\repos\ProjekatDesignPatterns\bin\Debug\netcoreapp2.0\ProjekatDesignPatterns.pdb
+C:\Users\HajdiDj\source\repos\ProjekatDesignPatterns\obj\Debug\netcoreapp2.0\ProjekatDesignPatterns.dll
+C:\Users\HajdiDj\source\repos\ProjekatDesignPatterns\obj\Debug\netcoreapp2.0\ProjekatDesignPatterns.pdb
+C:\Users\HajdiDj\source\repos\ProjekatDesignPatterns\obj\Debug\netcoreapp2.0\ProjekatDesignPatterns.csprojResolveAssemblyReference.cache
